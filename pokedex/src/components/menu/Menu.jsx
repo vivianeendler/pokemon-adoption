@@ -7,12 +7,12 @@ const Menu = () => {
       <nav>
         <ul>
             <li className="menu-item">
-                <a href="#" className="menu-link">
+                <a href="/" className="menu-link">
                     Home
                 </a>
             </li>
             <li className="menu-item">
-                <a href="#" className="menu-link">
+                <a href="/pokedex" className="menu-link">
                     Pokedex
                 </a>
             </li>
